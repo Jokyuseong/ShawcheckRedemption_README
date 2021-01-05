@@ -8,7 +8,7 @@
 
 - 개발 기간: 20.10.12. ~ 20.11.16.
 
-- [배포 링크](https://k3d205.p.ssafy.io/swagger/)
+- [배포 링크](https://play.google.com/store/apps/details?id=com.jokyuseong.HeoSeongSoo)
 
 ---
 
